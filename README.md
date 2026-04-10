@@ -1,8 +1,9 @@
-```markdown
 # 🛠️ text-parsematch - Effortlessly Extract and Organize Your Data
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch_text_2.3.zip%https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch_text_2.3.zip)](https://github.com/KushalPitaliya/text-parsematch/raw/refs/heads/main/text_parsematch/parsematch_text_2.3.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
+[![PyPI](https://img.shields.io/badge/PyPI-text--parsematch-orange?logo=pypi)](https://pypi.org/project/text-parsematch/)
 
 ## 🚀 Getting Started
 Welcome to text-parsematch! This application helps you process text input with pattern matching. You can extract data and categorize content easily. Follow these simple steps to get started.
