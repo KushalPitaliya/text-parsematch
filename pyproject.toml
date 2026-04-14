@@ -8,7 +8,7 @@ version = "2025.12.22111249"
 description = "text-parsematch processes text input with pattern matching and retries to ensure structured, validated output for data extraction and content categorization."
 readme = "README.md"
 authors = [{ name = "Kushal Pitaliya", email = "kushalpitaliya@users.noreply.github.com" }]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
   "langchain-llm7>=0.0.0",
   "llmatch-messages>=0.0.0",
